@@ -24,7 +24,7 @@ async function getElephants() {
 
 Add headers to the below API call.
 
-You can choose whether to create a variable for the headers object seperately from the call and pass the variable as the second parameter, or pass the headers object directly.
+You can choose whether to create a variable for the headers object seperately from the call and pass the variable in as the second parameter, or pass the headers object in directly.
 
 ```js
 const API_URL = "https://mashape-community-urban-dictionary.p.rapidapi.com/define?term=wat";
